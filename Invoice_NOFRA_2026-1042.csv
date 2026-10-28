@@ -1,0 +1,27 @@
+Invoice Number,INV-2026-1042
+Invoice Date,2026-10-28
+Due Date,2026-11-27
+PO Number,PO-88421
+Seller,NOFRA Trading B.V.
+Seller Address,"Waarderstraat 124, 2729 KK Zoetermeer, The Netherlands"
+Seller VAT,NL123456789B01
+Buyer,Tech Solutions GmbH
+Buyer Contact,Herr Markus Weber
+Buyer Address,"Industriestraße 45, 80331 München, Germany"
+Buyer VAT,DE987654321
+
+Line,Description,SKU,Quantity,Unit Price (EUR),VAT Rate,Line Amount (EUR)
+1,Industrial LED Lighting Module XL-200,LED-XL200-WHT,24,89.5,0.21,2148.0
+2,Smart Control Unit SC-Pro v3,SC-PRO-V3-BLK,12,245.0,0.21,2940.0
+3,Mounting Bracket Set (Stainless),MB-SS-KIT-10,48,18.75,0.21,900.0
+4,Cable Harness 5m Professional,CH-5M-PRO,36,32.4,0.21,1166.4
+5,Installation & Commissioning Service,SERVICE-INSTALL,1,850.0,0.21,850.0
+
+Subtotal (EUR),8004.4
+VAT 21% (EUR),1680.92
+Total Due (EUR),9685.32
+
+Bank,ABN AMRO Bank N.V.
+IBAN,NL91 ABNA 0417 1643 00
+BIC,ABNANL2A
+Payment Reference,INV-2026-1042
